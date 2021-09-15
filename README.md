@@ -1,2 +1,2 @@
-# RaspBerryPi
-RaspBerryPi Hardware for SmartHome project
+# RaspberryPi
+RaspberryPi Hardware for SmartHome project
