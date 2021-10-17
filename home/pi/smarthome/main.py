@@ -45,7 +45,7 @@ def on_message(client, userdata, msg):
             if j['cmd'] == 'on':
                 arduino.write(b'L6-1')
             else:
-                arudino.write(b'L6-0')
+                arduino.write(b'L6-0')
         if j['type'] == 'plug1':
             if j['cmd'] == 'on':
                 arduino.write(b'O1-1')
